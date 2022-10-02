@@ -55,4 +55,6 @@ Por ejemplo: modulo01/tp1/ejercicio-2.js
 
 #### Herramienta de edicion online:  [https://www.makeareadme.com/](https://www.makeareadme.com/).
 
-#### Ejemplo de archivo README:  [https://www.makeareadme.com/](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a).
+#### Ejemplo de archivo README:  [https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a).
+
+#### Recuerden que para cualquier consulta el correo es:  [programacion.obera.silicon@gmail.com](programacion.obera.silicon@gmail.com).
